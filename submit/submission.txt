@@ -1,0 +1,2 @@
+# Jenkins Pipelines on AWS
+https://github.com/ifchicken/static
